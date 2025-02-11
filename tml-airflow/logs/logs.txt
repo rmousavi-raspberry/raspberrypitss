@@ -9334,3 +9334,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-11_19:21:45] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-11_19:21:57] Visualization DAG in tml_system_step_7_kafka_visualization_dag-elastalink-3f10.py
 [INFO 2025-02-11_19:22:08] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-elastalink-3f10.py
+[INFO 2025-02-11_19:23:26] {'name': ['Project with slug "elastalink-3f10-7fe7" already exists.']}
