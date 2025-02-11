@@ -9389,3 +9389,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-11_21:59:02] {'name': ['Project with slug "elastalink-3f10-7fe7" already exists.']}
 [INFO 2025-02-11_21:59:17] {'name': ['Project with slug "elastalink-3f10-7fe7" already exists.']}
 [INFO 2025-02-11_21:59:30] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-elastalink2-3f10.py
+[INFO 2025-02-11_21:59:31] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-elastalink2-3f10.py
