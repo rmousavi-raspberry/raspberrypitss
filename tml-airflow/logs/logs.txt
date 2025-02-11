@@ -9274,3 +9274,4 @@ branch.main.merge=refs/heads/main
 [INFO 2025-02-11_18:39:49] TML Solution Studio: Github Remote Status: origin	https://github.com/rmousavi-raspberry/raspberrypitss.git (fetch)
 origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/raspberrypitss.git (push)
 [ERROR 2025-02-11_18:39:55] TML Solution Studio: Project elastalink-7fe7 does not exist.  You cannot copy from a non-esistent project.  Create elastalink-7fe7 first, then you can copy it.
+[INFO 2025-02-11_18:52:44] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
