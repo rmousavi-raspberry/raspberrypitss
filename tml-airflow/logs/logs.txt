@@ -9547,3 +9547,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-12_15:57:57] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-tml-entity-cybersecurity-sourceip-destinationip-network-3f10.py
 [INFO 2025-02-12_15:59:06] {'name': ['Ensure this field has no more than 63 characters.']}
 [INFO 2025-02-12_15:59:52] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-myawesometmlsolution-3f10.py
+[INFO 2025-02-12_15:59:53] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-myawesometmlsolution-3f10.py
