@@ -9541,3 +9541,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-12_15:57:28] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-tml-entity-cybersecurity-sourceip-destinationip-network-3f10.py
 [INFO 2025-02-12_15:57:28] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-tml-entity-cybersecurity-sourceip-destinationip-network-3f10.py
 [INFO 2025-02-12_15:57:29] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-tml-entity-cybersecurity-sourceip-destinationip-network-3f10.py
+[INFO 2025-02-12_15:57:30] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-tml-entity-cybersecurity-sourceip-destinationip-network-3f10.py
