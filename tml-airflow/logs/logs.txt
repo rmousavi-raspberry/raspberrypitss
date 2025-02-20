@@ -10711,3 +10711,4 @@ Already up to date.
 [INFO 2025-02-20_15:59:10] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-20_15:59:12] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-20_15:59:14] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
+[INFO 2025-02-20_15:59:16] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
