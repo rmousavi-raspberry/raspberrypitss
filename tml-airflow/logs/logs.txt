@@ -10708,3 +10708,4 @@ Already up to date.
 [INFO 2025-02-20_15:56:02] TML Solution Studio: git add . Status: 
 [INFO 2025-02-20_15:56:02] TML Solution Studio: git commit -a Status for project cybersecurityrtms-7fe7: fatal: paths 'project ...' with -a does not make sense
 [INFO 2025-02-20_15:56:03] TML Solution Studio: git push Status for project cybersecurityrtms-7fe7: Everything up-to-date
+[INFO 2025-02-20_15:59:10] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
