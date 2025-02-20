@@ -10778,3 +10778,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-20_17:12:01] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-20_17:12:03] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-20_17:12:05] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
+[INFO 2025-02-20_17:12:07] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
