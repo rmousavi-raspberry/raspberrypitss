@@ -11020,3 +11020,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-21_16:28:07] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-21_16:28:10] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-21_16:28:12] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
+[INFO 2025-02-21_16:28:15] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
