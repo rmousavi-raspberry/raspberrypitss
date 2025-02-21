@@ -10999,3 +10999,4 @@ origin	https://<personal access token hidden>@github.com/rmousavi-raspberry/rasp
 [INFO 2025-02-21_16:18:29] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-21_16:18:31] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
 [INFO 2025-02-21_16:18:34] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-elastalink-3f10.py
+[INFO 2025-02-21_16:18:40] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-elastalink-3f10.py
